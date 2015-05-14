@@ -16,6 +16,7 @@ Warning... I have a few weeks of R experience at this point :-)
 
 To make the distributable (will be located in the ./dist directory)
 ```shell
+npm install
 grunt build
 ```
 
