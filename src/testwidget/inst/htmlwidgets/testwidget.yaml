@@ -4,3 +4,8 @@ dependencies:
     src: "htmlwidgets/lib/d3"
     script:
       - d3.js
+  - name: simplevis
+    version: 0.0.1
+    src: "htmlwidgets/lib/redsofa"
+    script:
+      - simplevis.js
