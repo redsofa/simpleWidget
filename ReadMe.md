@@ -2,7 +2,7 @@
 
 [Rene Richard](http://www.redsofa.ca)
 
-[htmlwidgets](http://htmlwidgets.org) is an R package that 
+[htmlwidgets](http://www.htmlwidgets.org/) is an R package that 
 help you quickly create bindings to JavaScript libraries.
 
 This package was created to help me learn how htmlwidgets works.
